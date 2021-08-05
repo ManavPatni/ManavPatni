@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ManavPatni
-- 👀 I’m interested in coding such as python, java, android development and gaming
+- 👀 I’m interested in coding such as python, java, android development and also i love to play games
 - 🌱 I’m currently learning python, java, android development.
 - 📫 You can contact me by my email:- help.fireframe@gmail.com or website:- https://fireframe.godaddysites.com/
 

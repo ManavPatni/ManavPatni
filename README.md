@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ManavPatni
 - 👀 I’m interested in coding such as python, java, android development and also I love to play games
 - 🌱 I’m currently learning C, Java, Android development.
-- 📫 You can contact me by my email:- developer.mnvpatni@gmail.com or visit my website:- thecodeproject.in
+- 📫 You can contact me by my email:- developer.mnvpatni@gmail.com or visit my website:- https://thecodeproject.in/
 
 <!--- 💞️ I’m looking to collaborate on ... --->
 

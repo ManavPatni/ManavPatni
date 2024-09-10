@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=manavpatni&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515" alt="manavpatni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavpatni&show_icons=true&locale=en" alt="manavpatni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manavpatni&" alt="manavpatni" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=manavpatni&theme=dark&date_format=j%20M%5B%20Y%5D" alt="manavpatni" /></p>
